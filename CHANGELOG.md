@@ -1,4 +1,4 @@
-## Git
+## v0.10.0 - 2024-02-02
 ### Added
 - SC2324: Warn when x+=1 appends instead of increments
 - SC2325: Warn about multiple `!`s in dash/sh.
